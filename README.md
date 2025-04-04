@@ -20,8 +20,12 @@ This is an Simple Mobile Application Front End...
   <img src="/GithubReadMeCon/fogetpass.png" width="200" />
 </p>
 
-## Get started
+## How to Run App in Your Device 
 
+### Using Pre Build Apk 
+
+### - Download APK File 
+[![Download](https://img.shields.io/badge/Download-File-blue)](https://example.com/file.zip)
 1. Install dependencies
 
    ```bash
