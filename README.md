@@ -7,9 +7,9 @@ This is an Simple Mobile Application Front End...
 
 ### Used Techonologies 
 
-#### React 
-#### Type Script
-#### Expo
+- React 
+- Type Script
+- Expo
 
 ## Disign 
 
