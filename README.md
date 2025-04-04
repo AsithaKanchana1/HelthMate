@@ -1,6 +1,24 @@
-# Welcome to your Expo app 👋
+# Welcome to HelthMate Mobile App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an Simple Mobile Application Front End...
+
+## More About HelthMate 
+
+
+### Used Techonologies 
+
+#### React 
+#### Type Script
+#### Expo
+
+## Disign 
+
+<p float="left">
+  <img src="/GithubReadMeCon/start.png" width="200" />
+  <img src="/GithubReadMeCon/Loging.png" width="200" />
+  <img src="/GithubReadMeCon/logout.png" width="200" />
+  <img src="/GithubReadMeCon/fogetpass.png" width="200" />
+</p>
 
 ## Get started
 
